@@ -1,6 +1,9 @@
 # PCBA_RS232-To-TTL-Communicate-
 RS232 To TTL Communicate 
+# 应用
+有一些场合，TTL侧与RS232侧需要电气隔离开来，避免一些意外发生。有一个客户，以前用非隔离的TTL转RS232模块，烧坏了电脑。为了避免这类情况出现，TTL侧与RS232侧需要电气隔离开来。
 
+# 核心元器件
+[![RSM232](http://www.zlg.cn/tpl/zlg/Public/img/power/RSM01.jpg "RSM232")](RSM01.jpg "RSM232")
+广州致远公司开发的这一款TTL转RS232（隔离）芯片
 
-[![1](1 "1")](https://github.com/q164129345/Picture-Library/blob/master/360%E6%88%AA%E5%9B%BE16341021114105100.png?raw=true "1")
-[![2](2 "2")](https://raw.githubusercontent.com/q164129345/Picture-Library/master/360%E6%88%AA%E5%9B%BE16341021114105100.png "2")
