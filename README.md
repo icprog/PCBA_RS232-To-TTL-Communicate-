@@ -11,3 +11,6 @@ RS232 To TTL Communicate
 - 隔离电压：2500VDC
 - 工作温度：-40~85℃
 - 外壳及灌封材料符合UL94-V0标准
+
+# 接线电路图
+[![电路图](https://github.com/q164129345/Picture-Library/blob/master/360%E6%88%AA%E5%9B%BE16341021114105100.png?raw=true "电路图")](360%E6%88%AA%E5%9B%BE16341021114105100.png "电路图")
