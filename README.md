@@ -1,5 +1,5 @@
 # PCBA_RS232-To-TTL-Communicate-
-RS232 To TTL Communicate 
+RS232 To TTL Communicate,已经经过通电还有通讯测试.
 # 应用
 有一些场合，TTL侧与RS232侧需要电气隔离开来，避免一些意外发生。有一个客户，以前用非隔离的TTL转RS232模块，烧坏了电脑。为了避免这类情况出现，TTL侧与RS232侧需要电气隔离开来。
 
